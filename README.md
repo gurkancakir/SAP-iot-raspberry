@@ -3,11 +3,11 @@
 
 Raspberry den alınan verileri SAP HANA cloud'da bulunan servis aracılıgı ile HANA uzerine kaydeder.
 
-# Gereksinimler
------------------
+Gereksinimler
+-------
 `pyhon` yuklu olmalidir.
 
-# Calistirma
------------
+Calistirma
+-------
 
 `python iot.py`
